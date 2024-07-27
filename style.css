@@ -1,0 +1,87 @@
+  .top-grad{
+    position: relative;
+    height: 20vh;
+    width: 100%;
+    background-color:#97CAD6 ;
+  }
+  .title-text{
+    position: relative;
+    height: 30vh;
+    width: 100%;
+    text-emphasis: bold;
+    text-align: center;
+    background-color:#97CAD6 ;
+  }
+  .title-text>h1{
+    font-family: Recursive;
+    font-size: 4rem;
+    color: white;
+    margin-bottom: 20px;
+  }
+  h2{
+    font-family: PT Sans;
+    font-size: 2.5rem;
+    color: white;
+  }
+  span{
+    color: #1e21274b;
+    text-decoration: underline;
+  }
+  .profile-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: contain;
+  }
+  .resume{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+  }
+  .my-resume{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+  }
+  .hello{
+    color: #97CAD6;
+    font-family: Recursive;
+  }
+  .intro{
+    font-family: PT Sans;
+  }
+  .profession{
+    float: left;
+    width: 30%;
+  }
+  .listen{
+    float: right;
+    width: 30%;
+  }
+  .resume-head{
+    display: flex;
+    justify-content: center;
+  }
+ .resume-head>h2{
+    color: #97CAD6;
+    font-family: Recursive;
+    text-decoration: underline;
+    margin-bottom: 40px;
+ }
+ .resume-div>h3{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-family: Recursive;
+ }
+ .resume-div>p{
+    margin-left: 20px;
+    font-family: PT sans;
+ }
+ .container>div>h2{
+  color: #97CAD6;
+  font-family: Recursive;
+ }
+#footer{
+  background-color: #8eaeec;
+}
